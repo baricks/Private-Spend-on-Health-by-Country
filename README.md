@@ -1,0 +1,1 @@
+Using data from Gapminder, I created a simple data visualization showing, by country, the private expenditure on health as a percentage of the total expenditure on health. 
